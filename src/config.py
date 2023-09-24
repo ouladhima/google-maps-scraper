@@ -1,10 +1,8 @@
-'''
-Love It? Star It! ⭐ https://github.com/omkarcloud/google-maps-scraper/
-'''
+
 queries = [
     {
-        "keyword": "restaurants in delhi",
-        "max_results" : 5,
+        "keyword": "Ecole supérieur en ile-de-France  ",
+        "max_results" : 50,
     },
 ]
 
