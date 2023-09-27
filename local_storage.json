@@ -1,3 +1,38 @@
 {
-    "count": 13
+    "count": 18,
+    "ecole-superieur-en-paris": {
+        "query": {
+            "keyword": "Ecole sup\u00e9rieur en Paris",
+            "max_results": 5
+        },
+        "hash": "7247af49402c27330f9dee9a57e0492b"
+    },
+    "ecole-superieur-en-marseille": {
+        "query": {
+            "keyword": "Ecole sup\u00e9rieur en Marseille",
+            "max_results": 5
+        },
+        "hash": "35081daccf0f7704b8e9a7f6cf13f18b"
+    },
+    "ecole-superieur-en-lyon": {
+        "query": {
+            "keyword": "Ecole sup\u00e9rieur en Lyon",
+            "max_results": 5
+        },
+        "hash": "df3cff068dcca3aa6b1527cc6941986f"
+    },
+    "ecole-superieur-en-toulouse": {
+        "query": {
+            "keyword": "Ecole sup\u00e9rieur en Toulouse",
+            "max_results": 5
+        },
+        "hash": "551e774ec033bdefb6e85e41630f35dc"
+    },
+    "ecole-superieur-en-nice": {
+        "query": {
+            "keyword": "Ecole sup\u00e9rieur en Nice",
+            "max_results": 5
+        },
+        "hash": "92df1a11586c11115a9f0546da55cb09"
+    }
 }
